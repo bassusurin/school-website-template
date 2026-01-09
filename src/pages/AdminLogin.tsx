@@ -96,12 +96,6 @@ const AdminLogin = () => {
               กลับสู่หน้าหลัก
             </button>
           </div>
-
-          <div className="mt-4 p-3 bg-secondary rounded-lg">
-            <p className="text-xs text-center text-muted-foreground">
-              <strong>Demo:</strong> ชื่อผู้ใช้: admin | รหัสผ่าน: admin123
-            </p>
-          </div>
         </CardContent>
       </Card>
     </div>
